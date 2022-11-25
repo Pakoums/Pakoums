@@ -3,7 +3,7 @@
 
 
 
-<h3 align="left" style:"color:red;">Languages and Tools:</h3>
+<h3 align="left" style="color: red;">Languages and Tools:</h3>
 
 
 
