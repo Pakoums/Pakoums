@@ -1,9 +1,13 @@
-<h1 align="center">Salut ! Je suis Pakoums</h1>
-<h3 align="center">Un developpeur à ses heures perdues(mais en majeure partie un mec qui fait du réseau) ;)</h3>
+<h1 align="center">Hi ! I'm Pakoums</h1>
+
+<img align="center" src="https://iv1.lisimg.com/image/7537370/500full-lain-iwakura.jpg">
+
+
+<h3 align="center">I develop in my spare time, but otherwise I mainly work on computer networks</h3>
 
 
 
-<h3 align="left" style="color: red;">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>	
 
 
 
