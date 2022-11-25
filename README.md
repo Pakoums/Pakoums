@@ -1,6 +1,6 @@
 <h1 align="center">Hi ! I'm Pakoums</h1>
 
-<img align="center" src="[https://iv1.lisimg.com/image/7537370/500full-lain-iwakura.jpg](https://static.wikia.nocookie.net/cytus/images/4/48/ROBO_Head_OA.gif/revision/latest?cb=20210312131512)">
+<img align="center" src="https://static.wikia.nocookie.net/cytus/images/4/48/ROBO_Head_OA.gif/revision/latest?cb=20210312131512">
 
 
 <h3 align="center">I develop in my spare time, but otherwise I mainly work on computer networks</h3>
